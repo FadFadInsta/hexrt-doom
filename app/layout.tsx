@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   icons: {
     icon: "/images/img_prof.jpeg",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
